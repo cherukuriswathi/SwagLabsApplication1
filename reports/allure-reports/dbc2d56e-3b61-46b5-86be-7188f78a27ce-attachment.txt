@@ -1,0 +1,4 @@
+[32mINFO    [0m Config.swaglabs_logging:LoginPage.py:29 Enter username : standard_use
+[32mINFO    [0m Config.swaglabs_logging:LoginPage.py:31 Enter password : secret_sauce
+[32mINFO    [0m Config.swaglabs_logging:LoginPage.py:33 Click login button
+[32mINFO    [0m Config.swaglabs_logging:HomePage.py:39 verifying the add to cart button presence
